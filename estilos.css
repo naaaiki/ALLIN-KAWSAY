@@ -63,7 +63,7 @@ body {
 /* HERO */
 .hero {
   height: 100vh;
-  background: url("PORTADA5.jpeg") no-repeat center/cover fixed;
+  background: url("PRODUCTOS7.jpeg") no-repeat center/cover fixed;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -300,4 +300,5 @@ section {
 /* Texto de los productos */
 .menu p {
   text-align: justify; /* justifica la descripción */
+
 }
