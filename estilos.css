@@ -73,10 +73,17 @@ body {
 
 .hero-content h1 {
   font-size: 3em;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.7); /* sombra negra con difuminado */
 }
 
 .hero-content h1 span {
   color: #1e63c7; /* cobalto */
+}
+
+.hero-content p {
+  color: white; /* o azul si prefieres */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6); 
+  font-weight: 500; /* opcional: un poco más negrita */
 }
 
 .btn {
@@ -302,4 +309,5 @@ section {
   text-align: justify; /* justifica la descripción */
 
 }
+
 
